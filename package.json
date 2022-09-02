@@ -26,8 +26,10 @@
     "license": "ISC",
     "dependencies": {
         "@types/web3": "^1.2.2",
+        "axios": "^0.27.2",
         "bip32": "^3.0.1",
         "bitcoinjs-lib": "^6.0.2",
+        "dotenv": "^16.0.1",
         "ecpair": "^2.0.1",
         "express": "^4.16.2",
         "http-errors": "^1.7.1",
